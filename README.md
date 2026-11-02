@@ -21,3 +21,4 @@ All values are in calibers (base diameter D = 1).
 - `harv_nose_vonkarman.csv`, `harv_nose_cone.csv` — (x, r) profile points
 - `harv_nose.py` — generator (`python3 harv_nose.py --D 0.1` to scale)
 - `harv_nose.png` — profile comparison plot
+- `SUMMARY.md` — Japanese summary of ARL-TN-1128
