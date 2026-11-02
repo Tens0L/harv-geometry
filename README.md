@@ -22,5 +22,5 @@ All values are in calibers (base diameter D = 1).
 - `harv_nose.py` — generator (`python3 harv_nose.py --D 0.1` to scale)
 - `harv_nose.png` — profile comparison plot
 - `SUMMARY.md` — Japanese summary of ARL-TN-1128
-- `harv_nose_excel.xlsx` — Excel version built only with worksheet formulas
+- `harv_nose_excel.xlsx` — Excel version built only with worksheet formulas (direct/bisection sheets and Newton–Raphson sheets following Appendix A)
 - `EXCEL_GUIDE.md` — how to build the profiles in Excel (Japanese)
